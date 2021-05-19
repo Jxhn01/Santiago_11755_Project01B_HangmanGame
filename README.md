@@ -9,6 +9,7 @@ You want to create or specify your own words? Just overwrite or replace the word
 - This program was originally written by Tom Catullo (https://github.com/Tom25/Hangman.git) and modified by me, as an reference code. I did some moddifications to the project and add information to the user and customer.
 
 ## Modifications
+- The same as the first version since it is already structured with the functions.
 - Replace the words that came with the original code.
 - Let the user know a brief description of the game: relation of the words and how many attempts he has in total.
 - When the user or customer enter the worng letter, let the user or customer know the number of fail attempts currently have.
